@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2534
     wikipedia: http://en.wikipedia.org/wiki/Sara_Ware_Bassett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23973#Mrs.-Christy-s-Bridge-Party
 gutenberg_issued: '2007-12-22'
 gutenberg_type: Text
 identifiers:
